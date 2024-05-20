@@ -1,0 +1,9 @@
+code runner
+git graph
+gitkraken dark
+live server
+php debug
+php extension pack
+php getters & setters
+php intelephense
+php intellisense
