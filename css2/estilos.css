@@ -1,0 +1,14 @@
+
+.link{ :link{color:darkgreen; 
+    font-weight: bold;}
+    :visited{color:red; 
+        font-weight: bold;}
+    :hover{color:red ;
+    font-weight: bold; 
+     font-family: italica ;}
+     :active{color: blue;
+    font-weight: bold;
+     font-size: 2em;}
+
+
+}
