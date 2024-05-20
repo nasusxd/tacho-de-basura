@@ -1,0 +1,53 @@
+
+//links=vinculos
+*{ :link{color:darkgreen; 
+    font-weight: bold;}
+    :visited{color:red; 
+        font-weight: bold;}
+    :hover{color:red ;
+    font-weight: bold; 
+     font-family: italica ;}
+     :active{color: blue;
+    font-weight: bold;
+     font-size: 2em;}
+}
+enlaces= a
+a{color: red}
+
+
+
+font-weight:bold //negrita normal=comun
+font-family //letras
+
+<img src="imagenes/printer.png" alt="Impresora" />
+
+<span class="importantmessage">classed</span>
+
+#{backgroud-image:url=""}#hdr {
+background-image: url(images/fondo.gif);
+background-repeat: repeat-x;
+width: 100%;
+text-align: center;
+}
+
+#caja1 {
+ background-image: url(images/help.png);
+ background-repeat: no-repeat;
+ background-position: bottom left;
+}
+#caja2 {
+ background-image: url(images/help.png);
+ background-repeat: no-repeat;
+ background-position: right top;
+}
+#caja3 {
+ background-image: url(images/help.png);
+ background-repeat: no-repeat;
+ background-position: 50% 50%;
+}
+<div id="caja1"><h1>bottom left</h1></div>
+<div id="caja2"><h1>right top</h1></div>
+<div id="caja3"><h1>50% 50%</h1></div>
+
+
+
